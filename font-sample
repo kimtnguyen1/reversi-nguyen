@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Font Sample</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+<style>
+  .lede{
+       font-family: 'Speical Elite', cursive;
+       font-size: 300%;
+       }
+   .copy {
+       font-family: 'Merriweather', serif;
+       }
+       </style>
+</head>
+<body>
+  <p class="lede"> A Grocery Store Garlic Obsession </p>
+  <p class="copy">
+  At first you might think that Professory Patteron was kidding. A little 
+  commentary about garlic mentioned here. A little anecdote in passing there. 
+  Upon reflection, however, it would become clear that the mentions belied a 
+  deep set obsession with the odiferous bulb. Making many questions whether
+  there was vampire trauma in his past.
+  </p>
+  </body>
+  </html>
