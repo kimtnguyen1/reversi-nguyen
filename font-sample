@@ -13,6 +13,9 @@
    .copy {
        font-family: 'Merriweather', serif;
        }
+   .text {
+       font-family: 'Roboto', serif;
+       }
        </style>
 </head>
 <body>
@@ -23,6 +26,9 @@
   Upon reflection, however, it would become clear that the mentions belied a 
   deep set obsession with the odiferous bulb. Making many questions whether
   there was vampire trauma in his past.
+  </p>
+  <p class="text">
+  It was an obssession that would eventually lead to his demise
   </p>
   </body>
   </html>
